@@ -17,7 +17,7 @@ class DrawingView(context: Context,attrs:AttributeSet): View(context,attrs) {
     private var mCanvasPaint: Paint? = null // Instance of canvas paint view.
 
     private var mBrushSize: Float =
-        20.toFloat() // A variable for stroke/brush size to draw on the canvas.
+        0.toFloat() // A variable for stroke/brush size to draw on the canvas.
 
     // A variable to hold a color of the stroke.
     private var color = Color.BLACK

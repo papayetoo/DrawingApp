@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/DrawingApp/app/src/main/res/layout/activity_main.xml" value="0.422554347826087" />
+        <entry key="..\:/DrawingApp/app/src/main/res/drawable/background_drawing_view_layout.xml" value="0.4824074074074074" />
+        <entry key="..\:/DrawingApp/app/src/main/res/drawable/large.xml" value="0.32760416666666664" />
+        <entry key="..\:/DrawingApp/app/src/main/res/drawable/medium.xml" value="0.32760416666666664" />
+        <entry key="..\:/DrawingApp/app/src/main/res/drawable/pallet_normal.xml" value="0.4824074074074074" />
+        <entry key="..\:/DrawingApp/app/src/main/res/drawable/pallet_pressed.xml" value="0.4824074074074074" />
+        <entry key="..\:/DrawingApp/app/src/main/res/drawable/pallete_normal.xml" value="0.4824074074074074" />
+        <entry key="..\:/DrawingApp/app/src/main/res/drawable/pallete_pressed.xml" value="0.4824074074074074" />
+        <entry key="..\:/DrawingApp/app/src/main/res/drawable/small.xml" value="0.3265625" />
+        <entry key="..\:/DrawingApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/DrawingApp/app/src/main/res/layout/dialog_brush_size.xml" value="0.26469098277608916" />
       </map>
     </option>
   </component>
